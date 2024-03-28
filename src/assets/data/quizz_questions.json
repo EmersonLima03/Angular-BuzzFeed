@@ -1,0 +1,178 @@
+{
+  "title": "Qual personagem de Naruto você seria?",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Qual destas habilidades você prefere?",
+      "options": [
+        {"id": 1, "name": "Sharingan", "alias": "A"},
+        {"id": 2, "name": "Rasengan", "alias": "B"},
+        {"id": 3, "name": "Chidori", "alias": "C"},
+        {"id": 4, "name": "Byakugan", "alias": "D"},
+        {"id": 5, "name": "Rasenshuriken", "alias": "E"},
+        {"id": 6, "name": "Mangekyou Sharingan", "alias": "F"},
+        {"id": 7, "name": "Amaterasu", "alias": "G"},
+        {"id": 8, "name": "Susanoo", "alias": "H"},
+        {"id": 9, "name": "Kamui", "alias": "I"},
+        {"id": 10, "name": "Kage Bunshin no Jutsu", "alias": "J"}
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Qual é a sua abordagem em uma batalha?",
+      "options": [
+        {"id": 1, "name": "Estratégica e calculista", "alias": "A"},
+        {"id": 2, "name": "Intensa e impulsiva", "alias": "B"},
+        {"id": 3, "name": "Defensiva e cautelosa", "alias": "C"},
+        {"id": 4, "name": "Agresiva e arriscada", "alias": "D"},
+        {"id": 5, "name": "Pacífica e diplomática", "alias": "E"},
+        {"id": 6, "name": "Imprevisível e caótica", "alias": "F"},
+        {"id": 7, "name": "Honrosa e justa", "alias": "G"},
+        {"id": 8, "name": "Adaptação e versatilidade", "alias": "H"},
+        {"id": 9, "name": "Colaborativa e estratégica", "alias": "I"},
+        {"id": 10, "name": "Sutil e astuta", "alias": "J"}
+      ]
+    },
+    {
+      "id": 3,
+      "question": "O que você valoriza mais?",
+      "options": [
+        {"id": 1, "name": "Poder e ambição", "alias": "A"},
+        {"id": 2, "name": "Amizade e lealdade", "alias": "B"},
+        {"id": 3, "name": "Justiça e honra", "alias": "C"},
+        {"id": 4, "name": "Liberdade e independência", "alias": "D"},
+        {"id": 5, "name": "Sabedoria e conhecimento", "alias": "E"},
+        {"id": 6, "name": "Equilíbrio e tranquilidade", "alias": "F"},
+        {"id": 7, "name": "Beleza e arte", "alias": "G"},
+        {"id": 8, "name": "Adrenalina e desafios", "alias": "H"},
+        {"id": 9, "name": "Natureza e harmonia", "alias": "I"},
+        {"id": 10, "name": "Inovação e progresso", "alias": "J"}
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Qual é o seu objetivo final?",
+      "options": [
+        {"id": 1, "name": "Dominar o mundo ninja", "alias": "A"},
+        {"id": 2, "name": "Proteger aqueles que ama", "alias": "B"},
+        {"id": 3, "name": "Encontrar a paz interior", "alias": "C"},
+        {"id": 4, "name": "Explorar o desconhecido", "alias": "D"},
+        {"id": 5, "name": "Alcançar a iluminação", "alias": "E"},
+        {"id": 6, "name": "Descobrir meu verdadeiro potencial", "alias": "F"},
+        {"id": 7, "name": "Viver em harmonia com a natureza", "alias": "G"},
+        {"id": 8, "name": "Desafiar e superar meus limites", "alias": "H"},
+        {"id": 9, "name": "Promover a paz e a igualdade", "alias": "I"},
+        {"id": 10, "name": "Deixar um legado duradouro", "alias": "J"}
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Qual é a sua maior fraqueza?",
+      "options": [
+        {"id": 1, "name": "Arrogância", "alias": "A"},
+        {"id": 2, "name": "Indecisão", "alias": "B"},
+        {"id": 3, "name": "Raiva", "alias": "C"},
+        {"id": 4, "name": "Medo", "alias": "D"},
+        {"id": 5, "name": "Insegurança", "alias": "E"},
+        {"id": 6, "name": "Inflexibilidade", "alias": "F"},
+        {"id": 7, "name": "Desconfiança", "alias": "G"},
+        {"id": 8, "name": "Incapacidade de perdoar", "alias": "H"},
+        {"id": 9, "name": "Falta de foco", "alias": "I"},
+        {"id": 10, "name": "Falta de compaixão", "alias": "J"}
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Como você reage diante de um desafio?",
+      "options": [
+        {"id": 1, "name": "Com determinação e coragem", "alias": "A"},
+        {"id": 2, "name": "Com calma e estratégia", "alias": "B"},
+        {"id": 3, "name": "Com agressividade e impulsividade", "alias": "C"},
+        {"id": 4, "name": "Com paciência e perseverança", "alias": "D"},
+        {"id": 5, "name": "Com humildade e aprendizado", "alias": "E"},
+        {"id": 6, "name": "Com astúcia e manipulação", "alias": "F"},
+        {"id": 7, "name": "Com flexibilidade e adaptação", "alias": "G"},
+        {"id": 8, "name": "Com intuição e instinto", "alias": "H"},
+        {"id": 9, "name": "Com colaboração e trabalho em equipe", "alias": "I"},
+        {"id": 10, "name": "Com criatividade e inovação", "alias": "J"}
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Qual é o seu maior arrependimento?",
+      "options": [
+        {"id": 1, "name": "Ter machucado pessoas próximas", "alias": "A"},
+        {"id": 2, "name": "Não ter agido quando deveria", "alias": "B"},
+        {"id": 3, "name": "Ter desperdiçado oportunidades", "alias": "C"},
+        {"id": 4, "name": "Não ter seguido meu coração", "alias": "D"},
+        {"id": 5, "name": "Ter sido influenciado pelo mal", "alias": "E"},
+        {"id": 6, "name": "Não ter honrado minha família", "alias": "F"},
+        {"id": 7, "name": "Não ter ajudado quem precisava", "alias": "G"},
+        {"id": 8, "name": "Não ter cumprido minhas promessas", "alias": "H"},
+        {"id": 9, "name": "Ter traído a confiança de alguém", "alias": "I"},
+        {"id": 10, "name": "Não ter me desafiado mais", "alias": "J"}
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Qual é a sua relação com seus amigos?",
+      "options": [
+        {"id": 1, "name": "Lealdade inabalável", "alias": "A"},
+        {"id": 2, "name": "Confiança mútua", "alias": "B"},
+        {"id": 3, "name": "Cumplicidade e camaradagem", "alias": "C"},
+        {"id": 4, "name": "Competição saudável", "alias": "D"},
+        {"id": 5, "name": "Respeito e admiração", "alias": "E"},
+        {"id": 6, "name": "Ajuda mútua em momentos difíceis", "alias": "F"},
+        {"id": 7, "name": "Companheirismo e diversão", "alias": "G"},
+        {"id": 8, "name": "Vínculo emocional profundo", "alias": "H"},
+        {"id": 9, "name": "Conselhos e orientação", "alias": "I"},
+        {"id": 10, "name": "Desafios e superação juntos", "alias": "J"}
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Como você lida com a adversidade?",
+      "options": [
+        {"id": 1, "name": "Com determinação e coragem", "alias": "A"},
+        {"id": 2, "name": "Com resiliência e perseverança", "alias": "B"},
+        {"id": 3, "name": "Com humor e leveza", "alias": "C"},
+        {"id": 4, "name": "Com compaixão e empatia", "alias": "D"},
+        {"id": 5, "name": "Com criatividade e inovação", "alias": "E"},
+        {"id": 6, "name": "Com astúcia e estratégia", "alias": "F"},
+        {"id": 7, "name": "Com flexibilidade e adaptação", "alias": "G"},
+        {"id": 8, "name": "Com introspecção e autoconhecimento", "alias": "H"},
+        {"id": 9, "name": "Com ação imediata e determinação", "alias": "I"},
+        {"id": 10, "name": "Com confiança e otimismo", "alias": "J"}
+      ]
+    },
+    {
+      "id": 10,
+      "question": "O que você busca em um mentor?",
+      "options": [
+        {"id": 1, "name": "Sabedoria e experiência", "alias": "A"},
+        {"id": 2, "name": "Compaixão e orientação", "alias": "B"},
+        {"id": 3, "name": "Desafios e exigência", "alias": "C"},
+        {"id": 4, "name": "Conselhos práticos e soluções", "alias": "D"},
+        {"id": 5, "name": "Inovação e perspectivas novas", "alias": "E"},
+        {"id": 6, "name": "Libertação de limitações e regras", "alias": "F"},
+        {"id": 7, "name": "Inspirar e motivar", "alias": "G"},
+        {"id": 8, "name": "Conexão espiritual e transcendeência", "alias": "H"},
+        {"id": 9, "name": "Adaptação e mudança", "alias": "I"},
+        {"id": 10, "name": "Apoio e incentivo", "alias": "J"}
+      ]
+    }
+  ],
+      "results": {
+        "A": "Você seria um ninja altamente habilidoso e determinado, como Itachi Uchiha.",
+        "B": "Você seria um amigo leal e confiável, como Naruto Uzumaki.",
+        "C": "Você seria um estrategista inteligente e calculista, como Shikamaru Nara.",
+        "D": "Você seria um observador perspicaz e dedicado, como Neji Hyuga.",
+        "E": "Você seria um líder poderoso e visionário, como Hashirama Senju.",
+        "F": "Você seria um gênio talentoso e um tanto solitário, como Sasuke Uchiha.",
+        "G": "Você seria um guerreiro espiritual e pacífico, como Jiraiya.",
+        "H": "Você seria uma força transcendente e misteriosa, como Madara Uchiha.",
+        "I": "Você seria um protetor corajoso e dedicado, como Minato Namikaze.",
+        "J": "Você seria um símbolo de esperança e inspiração, como Kakashi Hatake."
+      }
+    }
+
